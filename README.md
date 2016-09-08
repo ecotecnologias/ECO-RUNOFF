@@ -1,2 +1,2 @@
 # ECOFlow
-QGIS Plugin para realizar simulações chuva-vazão pelo método SCS
+QGIS Plu-gin para realizar simulações chuva-vazão pelo método SCS.
