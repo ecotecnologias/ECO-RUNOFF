@@ -1,0 +1,39 @@
+# This file contains metadata for your plugin. Since 
+# version 2.0 of QGIS this is the proper way to supply 
+# information about a plugin. The old method of 
+# embedding metadata in __init__.py will 
+# is no longer supported since version 2.0.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=ECO-Runoff
+qgisMinimumVersion=2.0
+description=This tool automatize surface runoff simulations based on SCS methods
+version=0.1
+author=Jéssica Ribeiro Fontoura, Daniel Allasia, Vitor Geller, Robson Leo Pachaly
+email=jessica.ribeirofontoura@gmail.com
+
+about=This tool was developed by the Research Group on Hydro Environmental Modeling and Ecotechnologies at Universidade Federal de Santa Maria in order to automatically process surface runoff simulations based on the SCS methods. The main purpose of this plugin is to make available a free and open source tool to help professionals of the water resources sector to develope hydraulic dimensionaments and other projects related to urban drainage. Given that Brazil is a developing country and has financial resource limitations, this tool has potential to provide improvements to the projects whitout extra costs. More than that, this tool can promote the knowledge acquirement and the scientific devolopment of the country. Since it is a tool focused on attend the necessities of brazilian professionals, its interface was designed in portuguese.
+
+tracker=https://github.com/ecotecnologias/ECO-RUNOFF
+repository=https://github.com/ecotecnologias/ECO-RUNOFF
+# End of mandatory metadata
+
+# Recommended items:
+
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=hydrology
+
+homepage=https://www.facebook.com/UFSMecotecnologias
+category=Plugins
+icon=icon.png
+# experimental flag
+experimental=True
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
